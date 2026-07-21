@@ -1,0 +1,15 @@
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/bin/Debug/net10.0/ExamWeightingApp
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/bin/Debug/net10.0/ExamWeightingApp.deps.json
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/bin/Debug/net10.0/ExamWeightingApp.runtimeconfig.json
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/bin/Debug/net10.0/ExamWeightingApp.dll
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/bin/Debug/net10.0/ExamWeightingApp.pdb
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.AssemblyInfoInputs.cache
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.AssemblyInfo.cs
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.csproj.CoreCompileInputs.cache
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.sourcelink.json
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.dll
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/refint/ExamWeightingApp.dll
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.pdb
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ExamWeightingApp.genruntimeconfig.cache
+/workspaces/CNA-261-Assignment-/ExamWeightingApp/obj/Debug/net10.0/ref/ExamWeightingApp.dll
